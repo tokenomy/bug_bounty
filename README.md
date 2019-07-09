@@ -8,7 +8,7 @@ The following requirements must be adhered to in order to participate in Tokenom
 - We seek to pay similar amounts for similar issues, but bounty amounts and qualifying issues may change with time. Past rewards do not necessarily guarantee similar results in the future.
 - In the event of duplicate reports, we award a bounty to the first person to submit an issue. (Capacity determines duplicates and may not share details on the other reports.) A given bounty is only paid to one individual.
 - Your participation in this program must not disrupt or compromise any data that does not belong to you. Any attacks against other users or company data without provable express consent are prohibited and will automatically disqualify you from participating in the program.
-- You must not disclose the issue to the public or a third-party before it has been fixed and prior written consent from Indodax.
+- You must not disclose the issue to the public or a third-party before it has been fixed and prior written consent from Tokenomy.
 - You must comply with any applicable laws and regulations in connection with your participation in this program. 
 - Tokenomy’s development team, employees and all other affiliates are not eligible for rewards.
 
